@@ -28,4 +28,6 @@ Also zb. mit: "http://mycontaoinstallation/test"
 Optional können mit der URL zwei Parameter mitgegeben werden.
 Zb.: "http://mycontaoinstallation/test/10/20"
 
+Funktioniert die Route, erscheint eine Frontendausgabe mit dem Titel "Frontend Route".
+Gesteuert wird diese Ausgabe in diesem Demo-Bundle über die Controller-Klasse unter "src/AppBundle/Controller/TestController.php". Dort werden auch die beiden Parameter verarbeitet.
 
