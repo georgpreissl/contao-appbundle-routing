@@ -1,4 +1,4 @@
-# contao-appbundle-routing
+# Contao-Routing Demo-AppBundle
 
 Ein Demo-AppBundle das zeigt wie einfaches Routing unter Contao 4.4 funktioniert.
 
