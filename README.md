@@ -24,3 +24,8 @@ composer install --optimize-autoloader
 
 War die Installation erfolgreich, kann man nun mit der URL-Ergänzung "test" der gelegten Route folgen :)
 Also zb. mit: "http://mycontaoinstallation/test"
+
+Optional können mit der URL zwei Parameter mitgegeben werden.
+Zb.: "http://mycontaoinstallation/test/10/20"
+
+
