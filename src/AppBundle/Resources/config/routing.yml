@@ -1,6 +1,6 @@
 test:
     path: /test/
     defaults:
-        _controller: 'AppBundle\Controller\Test:loadAction'
+        _controller: 'AppBundle\Controller\TestController:loadAction'
         _scope: frontend
         _token_check: false
